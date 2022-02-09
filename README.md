@@ -3,7 +3,7 @@
 To run the application:
 1) Clone the repository by link
    ```shell
-    git clone ...
+    git clone https://github.com/NikBel3476/device-online-shop-server.git
     cd online-shop
    ```
 2) Install dependencies
