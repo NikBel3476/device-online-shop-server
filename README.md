@@ -4,7 +4,7 @@ To run the application:
 1) Clone the repository by link
    ```shell
     git clone https://github.com/NikBel3476/device-online-shop-server.git
-    cd online-shop
+    cd device-online-shop-server
    ```
 2) Install dependencies
     ```shell
